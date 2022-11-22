@@ -4,6 +4,7 @@
 
 # Term Frequency-Inverse Document Frequency (TF-IDF)
 **Term frequency (tf)**, adalah model Bag of words, dilambangkan dengan nilai frekuensi setiap kata dalam dokumen particualr dan direpresentasikan di bawah ini sebagai.
+
 ![image](https://user-images.githubusercontent.com/8701464/130260732-31e928d5-0c4a-4915-a671-1b4564783c58.png)
 
 Inverse document frecuency (idf) adalah kebalikan dari Term Frequency untuk setiap kata, membagi jumlah dokumen dengan frekuensi dokumen untuk setiap kata, operasi ini sedang diskalakan menggunakan logaritmik, rumusnya menambahkan 1 ke frekuensi dokumen untuk setiap kata untuk menyoroti bahwa ia juga memiliki satu dokumen lagi di korpus,  Ini juga addig 1 ke seluruh hasil untuk menghindari mengabaikan istilah yang bisa memiliki nol.
