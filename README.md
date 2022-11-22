@@ -22,7 +22,6 @@ Euclidean distance mengidentifikasi seberapa jauh dua vektor terpisah satu sama 
 
 ---
 ## Dataset
- Dataset yang digunakan diambil dari Direktori Putusan Mahkamah Agung Indonesia, yaitu direktori putusan PN Depok [bagian Pidana Khusus kasus Narkotika dan Psikotropika]( https://putusan3.mahkamahagung.go.id/direktori/index/pengadilan/pn-depok/kategori/narkotika-dan-psikotropika-1/page/52.html). Dataset berjumlah 50 file pdf yang disimpan dalam format .zip.
+ Dataset yang digunakan diambil dari Direktori Putusan Mahkamah Agung Indonesia, yaitu direktori putusan PN Depok [bagian Pidana Khusus kasus Narkotika dan Psikotropika]( https://putusan3.mahkamahagung.go.id/direktori/index/pengadilan/pn-depok/kategori/narkotika-dan-psikotropika-1/page/52.html). Dataset berjumlah 50 file pdf yang disimpan dalam format .zip
  
- ## Source Code
- Source Code pengerjaan search engine dapat diakses di [Google Colab](https://colab.research.google.com/drive/15i9GJ1Ac0AvqtrtWUcHrB-1lEtbWLtmA?usp=sharing).
+
