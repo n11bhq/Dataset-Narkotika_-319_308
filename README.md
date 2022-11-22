@@ -1,4 +1,6 @@
-# Dataset-Narkotika_319_308
+# Tugas Temu Kembali Informasi
+### Anggota 1 : Dyah Rizky Octavia (2019-319)
+### Anggota 2 : Nizar Baihaqi (2019-308)
 *   [Dataset](https://github.com/n11bhq/Dataset-Narkotika_-319_308/tree/main/Dataset)
 *   [Overview](https://github.com/n11bhq/Dataset-Narkotika_-319_308/tree/main/Overview)
 
